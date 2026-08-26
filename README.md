@@ -5,6 +5,7 @@ This repository contains all labs developed during the completion of the IBM App
 In this project, I assume the role of a data scientist working for a startup competing with SpaceX. The goal is to analyze SpaceX Falcon 9 rocket launch data to predict whether the first stage of the rocket will land successfully. Using data collection, wrangling, exploratory analysis, visualization, and machine learning models, I develop predictive models to help determine launch costs and support informed bidding decisions. This project showcases practical application of data science and machine learning techniques on real-world aerospace data. 
 
 ## :purple_circle: Tech Stack
+- Structured Query Language (SQLlite)
 - Python programming language
 - Data collection and web scraping tools
 - Data wrangling libraries (e.g., pandas, numpy)
